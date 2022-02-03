@@ -22,9 +22,9 @@ Add aText for home page and About us page and for photo gallery page add image b
 ## HOMEPAGE:
 ![homepage](./homepage.PNG)
 ## About us:
-![about](./about us.png)
+![about](https://github.com/Pallavi-Raveendranadreddy/wireframeproject/blob/8eb2a1cfd7aac8ae7bc64545c7525d5c92a96640/about%20us.PNG)
 ## CONTACT US:
-![contact](./contact us.PNG)
+![contact](https://github.com/Pallavi-Raveendranadreddy/wireframeproject/blob/8eb2a1cfd7aac8ae7bc64545c7525d5c92a96640/homepage.PNG)
 
 ## Result:
 Thus a wire frame is designed for a given website.
