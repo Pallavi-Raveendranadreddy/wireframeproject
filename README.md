@@ -16,8 +16,8 @@ Write your design steps here
 ## HOMEPAGE:
 ![homepage](./homepage.PNG)
 ## About us:
-![about](./about us.PNG)
-## Photo Gallery:
+![about](./about us.png)
+## CONTACT US:
 ![contact](./contact us.PNG)
 
 ## Result:
